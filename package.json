@@ -1,0 +1,18 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Antoine Reneleau's resume",
+  "dependencies": {
+    "resume-cli": "^0.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "resume export -t elegant -f html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AntoineReneleau/resume.git"
+  },
+  "author": "AntoineReneleau",
+  "homepage": "http://antoine.reneleau.fr"
+}

@@ -1,0 +1,16 @@
+.skill-level .skill-progress.beginner {
+  height: 50%;
+  background: #f1c40f;/*#e74c3c;*/
+}
+.skill-level .skill-progress.intermediate {
+  height: 70%;
+  background: #428bca;
+}
+.skill-level .skill-progress.advanced {
+  height: 80%;
+  background: #5cb85c;
+}
+.skill-level .skill-progress.master {
+  height: 95%;
+  background: #5cb85c;
+}

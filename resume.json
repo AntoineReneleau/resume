@@ -1,0 +1,230 @@
+{
+  "basics": {
+    "name": "Antoine Reneleau",
+    "label": "Web Developer",
+    "picture": "",
+    "email": "antoine@reneleau.fr",
+    "phone": "",
+    "website": "",
+    "summary": "Web Developer @ ZOL Web, currently working at M6Web with ReactJS, Symfony2 and Quality & WebPerf problematics",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Lyon",
+      "countryCode": "FR",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "_nut",
+        "url": "http://twitter.com/_nut"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "AntoineReneleau",
+        "url": "https://fr.linkedin.com/in/antoinereneleau"
+      },
+      {
+        "network": "GitHub",
+        "username": "AntoineReneleau",
+        "url": "https://github.com/AntoineReneleau/"
+      },
+      {
+        "network": "Skype",
+        "username": "pon3y-",
+        "url": "skype:pon3y-?call"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "M6Web",
+      "position": "Web Developer",
+      "website": "http://tech.m6web.fr",
+      "startDate": "2014-09-10",
+      "summary": "Develop and maintain high-quality web apps using PHP, Symfony2, ReactJS, AngularJS",
+      "summaryFR": "Concevoir, développer et maintenir des applications web Symfony2 et AngularJS",
+      "highlights": [
+        "6play.fr : ReactJS, Fluxible",
+        "clubic.com, deco.fr : Symfony2",
+        "turbo.fr : ReactJS, Redux"
+      ]
+    },
+    {
+      "company": "Viadigis",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2013-09-01",
+      "endDate": "2014-09-10",
+      "summary": "Develop web and mobile apps",
+      "summaryFR": "Concevoir, développer, administrer et maintenir des applications web et mobile.",
+      "highlights": [
+        "PHP (Silex) / MySQL",
+        "Phonegap / Cordova",
+        "Wordpress, Prestashop, Facebook apps"
+      ]
+    },
+    {
+      "company": "Cisbio Bioassays",
+      "position": "Delphi Developer",
+      "website": "cisbio.com",
+      "startDate": "2013-06-01",
+      "endDate": "2013-09-10",
+      "summary": "Develop Firebird/NetSuite sync software using Delphi XE3.",
+      "summaryFR": "Développer une application de synchronisation Firebird/NetSuite en Delphi XE3.",
+      "highlights": [
+        "Delphi / SQL",
+        "NetSuite"
+      ]
+    },
+    {
+      "company": "@gp",
+      "position": "Web Developer",
+      "website": "atgp.net",
+      "startDate": "2012-04-01",
+      "endDate": "2012-07-10",
+      "summary": "Develop a firewall management app",
+      "summaryFR": "Développer une application web de gestion de pare-feu.",
+      "highlights": [
+        "PHP / MySQL",
+        "iptables"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "PHP",
+      "level": "Advanced",
+      "keywords": [
+        "Symfony2",
+        "Doctrine/MySQL",
+        "Composer",
+        "atoum"
+      ]
+    },
+    {
+      "name": "Javascript",
+      "level": "Advanced",
+      "keywords": [
+        "ReactJS",
+        "AngularJS",
+        "ES6",
+        "Gulp"
+      ]
+    },
+    {
+      "name": "Methods & Tools",
+      "level": "Advanced",
+      "keywords": [
+        "Git",
+        "Scrum",
+        "Jenkins/Travis"
+      ]
+    },
+    {
+      "name": "NoSQL",
+      "level": "Beginner",
+      "keywords": [
+        "Elasticsearch",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Integration",
+      "level": "Intermediate",
+      "keywords": [
+        "Less/Sass",
+        "Flexbox",
+        "WebPerf"
+      ]
+    },
+    {
+      "name": "NodeJS",
+      "level": "Intermediate",
+      "keywords": [
+        "Express",
+        "socket.io"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "G4 Institute Lyon",
+      "area": "Computer Science & Management",
+      "studyType": "RNCP I – Chef de Projet des Systèmes d'Information",
+      "startDate": "2013-09-01",
+      "endDate": "2015-09-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad de Jaén (Spain)",
+      "area": "Computer Science - Network",
+      "studyType": "Licence S.I.L CASIR (ERASMUS)",
+      "startDate": "2012-09-01",
+      "endDate": "2013-08-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "IUT Valence (France)",
+      "area": "Computer Science",
+      "studyType": "DUT Informatique",
+      "startDate": "2010-09-01",
+      "endDate": "2012-08-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Web",
+      "keywords": [
+        "Framework & Library discovery",
+        "Automation",
+        "New technologies"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Hockey",
+        "Ski",
+        "Water ski, Barefoot",
+        "Scuba diving"
+      ]
+    },
+    {
+      "name": "Subtitles translation",
+      "keywords": [
+        "addic7ed.com"
+      ]
+    }
+  ],
+  "references": [],
+  "volunteer": [{
+    "organization": "AIV - Association des Iutiens Valentinois",
+    "position": "Web & Communication Manager",
+    "website": "",
+    "startDate": "2011-09-01",
+    "endDate": "2012-09-01",
+    "summary": "Organize and promote campus and partners events",
+    "highlights": [
+    ]
+  }]
+}
