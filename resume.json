@@ -68,7 +68,7 @@
     {
       "company": "Cisbio Bioassays",
       "position": "Delphi Developer",
-      "website": "cisbio.com",
+      "website": "http://cisbio.com",
       "startDate": "2013-06-01",
       "endDate": "2013-09-10",
       "summary": "Develop Firebird/NetSuite sync software using Delphi XE3.",
@@ -81,7 +81,7 @@
     {
       "company": "@gp",
       "position": "Web Developer",
-      "website": "atgp.net",
+      "website": "http://atgp.net",
       "startDate": "2012-04-01",
       "endDate": "2012-07-10",
       "summary": "Develop a firewall management app",
