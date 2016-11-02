@@ -6,7 +6,7 @@
     "email": "antoine@reneleau.fr",
     "phone": "",
     "website": "",
-    "summary": "Web Developer @ ZOL Web, currently working at M6Web with ReactJS, Symfony2 and Quality & WebPerf problematics",
+    "summary": "Web Developer @ ZoL Web, currently working at M6 Web using ReactJS and Symfony2 with Quality and WebPerf problematics",
     "location": {
       "address": "",
       "postalCode": "",
@@ -39,16 +39,31 @@
   },
   "work": [
     {
-      "company": "M6Web",
+      "company": "ZoL (on site at M6 Web)",
       "position": "Web Developer",
-      "website": "http://tech.m6web.fr",
-      "startDate": "2014-09-10",
-      "summary": "Develop and maintain high-quality web apps using PHP, Symfony2, ReactJS, AngularJS",
+      "website": "http://zol.fr",
+      "startDate": "2015-09-15",
+      "summary": "Developing and maintaining high-quality web apps using ReactJS, AngularJS, PHP and Symfony2",
       "summaryFR": "Concevoir, développer et maintenir des applications web Symfony2 et AngularJS",
       "highlights": [
         "6play.fr : ReactJS, Fluxible",
-        "clubic.com, deco.fr : Symfony2",
-        "turbo.fr : ReactJS, Redux"
+        "deco.fr : ReactJS, Redux",
+        "turbo.fr : ReactJS, Redux",
+        "clubic.com, deco.fr : Symfony2"
+      ]
+    },
+    {
+      "company": "M6 Web",
+      "position": "Web Developer",
+      "website": "http://tech.m6web.fr",
+      "startDate": "2014-09-10",
+      "endDate": "2015-09-15",
+      "summary": "One year internship developing and maintaining rich web apps",
+      "summaryFR": "Concevoir, développer et maintenir des applications web Symfony2 et AngularJS",
+      "highlights": [
+        "6play.fr : ReactJS, Fluxible",
+        "Deployment interface : AngularJS",
+        "clubic.com, deco.fr : Symfony2"
       ]
     },
     {
@@ -63,19 +78,6 @@
         "PHP (Silex) / MySQL",
         "Phonegap / Cordova",
         "Wordpress, Prestashop, Facebook apps"
-      ]
-    },
-    {
-      "company": "Cisbio Bioassays",
-      "position": "Delphi Developer",
-      "website": "http://cisbio.com",
-      "startDate": "2013-06-01",
-      "endDate": "2013-09-10",
-      "summary": "Develop Firebird/NetSuite sync software using Delphi XE3.",
-      "summaryFR": "Développer une application de synchronisation Firebird/NetSuite en Delphi XE3.",
-      "highlights": [
-        "Delphi / SQL",
-        "NetSuite"
       ]
     },
     {
@@ -94,6 +96,17 @@
   ],
   "skills": [
     {
+      "name": "Javascript",
+      "level": "Advanced",
+      "keywords": [
+        "ReactJS",
+        "Redux",
+        "AngularJS",
+        "ES6",
+        "Gulp"
+      ]
+    },
+    {
       "name": "PHP",
       "level": "Advanced",
       "keywords": [
@@ -101,16 +114,6 @@
         "Doctrine/MySQL",
         "Composer",
         "atoum"
-      ]
-    },
-    {
-      "name": "Javascript",
-      "level": "Advanced",
-      "keywords": [
-        "ReactJS",
-        "AngularJS",
-        "ES6",
-        "Gulp"
       ]
     },
     {
