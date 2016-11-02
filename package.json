@@ -7,7 +7,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "resume export -t elegant -f html"
+    "start": "echo \"index.html\n\" | resume export -t elegant -f html && npm run build",
+    "build": "node build.js"
   },
   "repository": {
     "type": "git",
